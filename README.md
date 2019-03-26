@@ -1,2 +1,2 @@
 # QueenCar
-### This is the repository for developing the applications over my first self-driving car.
+#### This is the repository for recording the applications developments over my first self-driving car.
