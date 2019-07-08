@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/nchu/MCU/Ubuntu-Sever-Code/android-server/android/save/model-AIA-model-AIA/model-AIA.ckpt"
+all_model_checkpoint_paths: "/home/nchu/MCU/Ubuntu-Sever-Code/android-server/android/save/model-AIA-model-AIA/model-AIA.ckpt"

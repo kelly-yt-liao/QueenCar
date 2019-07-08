@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/willy/Desktop/android_test/AndroidAudioRecorder_test/lib/build/intermediates/res/merged/androidTest/debug/menu/aar_audio_recorder.xml",
+        "source": "/Users/willy/Desktop/android_test/AndroidAudioRecorder_test/lib/build/intermediates/bundles/debug/res/menu/aar_audio_recorder.xml"
+    },
+    {
+        "merged": "/Users/willy/Desktop/AndroidAudioRecorder-master/lib/build/intermediates/res/merged/androidTest/debug/menu/aar_audio_recorder.xml",
+        "source": "/Users/willy/Desktop/AndroidAudioRecorder-master/lib/build/intermediates/bundles/debug/res/menu/aar_audio_recorder.xml"
+    }
+]

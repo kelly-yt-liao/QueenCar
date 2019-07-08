@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_f260c872612857c4ab6c4f4760dee09579f3eb39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_082c86534ba28e5928264a2fa23f85d8682158c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_d896207f649903a2742b89ac98594c9ecdb2006d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a7345c33017550739eea6fc126fc5ccadde996a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minrou\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.1\19047bdb6a4fc00a44124f64ca98e88fc204e7e3\okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\pre-dexed\debug\okhttp-3.3.1_3bbfb464b175b62aec52ac01727ba4152adc6d88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\exploded-aar\com.kailashdabhi\om-recorder\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cc612fa2610b0741f55190e7bc73034144873adb">
+        <dex dex="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\pre-dexed\debug\com.kailashdabhi-om-recorder-1.1.0_8fce9fc1ee98bb3f709c680accdad604e3fa136e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_1fe2b3b385b69c926b7b68c3e63f03b01f206af1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_b307f014f30fafaa42fae1139c0725c5c0cc9727.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f46121a7c3b3ba958fc27c39447ae205be23ac4a">
+        <dex dex="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.1.0_b90ee473ae7e154464289dd344e6240f951a46ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minrou\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.1.0\931532e953a477f876f2de18c2e7f16eee01078f\constraint-layout-solver-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="931532e953a477f876f2de18c2e7f16eee01078f">
+        <dex dex="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.1.0_2e6fd99b00eebb62d92aa8f527744b8ccc1b6a4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_0faaad9f8445f4ac0c0dae06b9e153918d809f09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e168b277d5af44b3937dd06976cd56c24c7ca323.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minrou\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.2.0\6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c\okhttp-urlconnection-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c">
+        <dex dex="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.2.0_944ab4f41c7eeaf0beb78873d38d9d9f1e06ceeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_1f09d8738775c37072beb82a44a7961861a352d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_20b44c69918128b2d84c34d8810f5e3e9e9c7d50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_fc4bd55ad6c83b4c94851e4b383fc68d215f455f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\exploded-aar\com.cleveroad\audiovisualization\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3bfdddd4e47dab6e743f217d2ddde7e6cc5db0ee">
+        <dex dex="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\pre-dexed\debug\com.cleveroad-audiovisualization-1.0.0_f0ccb462c94e82aa8a3299c934f352d45eb7beee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_eceb81f256ce0423e3c3f01dd625c289c616b47a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minrou\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_2c51ecce6b559d8a6079bbeabff5cb8352527712.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_863182b947187f68690c613608dc46933e34ad92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\exploded-aar\AndroidAudioRecorder_test\lib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9ff552ae4ee73382d2df6ef0c66f0318e128c1ed">
+        <dex dex="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\pre-dexed\debug\AndroidAudioRecorder_test-lib-unspecified_d57542d7cc021521078f19a18cd57cb1e6fd168c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minrou\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\pre-dexed\debug\okio-1.8.0_947c1b419d3c4cbb9a3dcfda8445fa2a41bca4aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\exploded-aar\com.zhy\okhttputils\2.6.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="155fef2600f48631a9e9665c0873743b6d24e324">
+        <dex dex="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\pre-dexed\debug\com.zhy-okhttputils-2.6.2_a0255e837577d9ebc17501875dc2edbfe26403b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Minrou\Desktop\AndroidAudioRecorder_test\AndroidAudioRecorder_test\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_9843294c5ef6db53d8871fb7d2af8deab351488a.jar" />
+    </item>
+
+</items>

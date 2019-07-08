@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/willy/Virtual-Elderly-Chatbot-Server-Structure-master/NoTag/save/model-positive_negative/model.ckpt"
+all_model_checkpoint_paths: "/home/willy/Virtual-Elderly-Chatbot-Server-Structure-master/NoTag/save/model-positive_negative/model.ckpt"

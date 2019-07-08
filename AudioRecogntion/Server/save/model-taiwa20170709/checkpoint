@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/akishinoshiame/DeepQA/save/model-taiwa20170709/model.ckpt"
+all_model_checkpoint_paths: "/home/akishinoshiame/DeepQA/save/model-taiwa20170709/model.ckpt"

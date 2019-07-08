@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="aar_bubble_size">30dp</dimen>
+    <dimen name="aar_footer_height">200dp</dimen>
+    <dimen name="aar_wave_height">60dp</dimen>
+    <string name="aar_paused">Paused</string>
+    <string name="aar_playing">Playing</string>
+    <string name="aar_recording">Recording</string>
+    <string name="aar_save">Save</string>
+    <string name="app_name" translatable="false">AndroidAudioRecorder</string>
+</resources>

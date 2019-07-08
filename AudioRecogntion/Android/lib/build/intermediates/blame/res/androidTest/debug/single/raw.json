@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/willy/Desktop/android_test/AndroidAudioRecorder_test/lib/build/intermediates/res/merged/androidTest/debug/raw/av_workaround_1min.mp3",
+        "source": "/Users/willy/Desktop/android_test/AndroidAudioRecorder_test/lib/build/intermediates/exploded-aar/com.cleveroad/audiovisualization/1.0.0/res/raw/av_workaround_1min.mp3"
+    },
+    {
+        "merged": "/Users/willy/Desktop/AndroidAudioRecorder-master/lib/build/intermediates/res/merged/androidTest/debug/raw/av_workaround_1min.mp3",
+        "source": "/Users/willy/Desktop/AndroidAudioRecorder-master/lib/build/intermediates/exploded-aar/com.cleveroad/audiovisualization/1.0.0/res/raw/av_workaround_1min.mp3"
+    }
+]

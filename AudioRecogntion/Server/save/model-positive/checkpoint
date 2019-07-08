@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/willy/test_\346\270\254\350\251\246/NoTag/save/model-positive/model.ckpt"
+all_model_checkpoint_paths: "/home/willy/test_\346\270\254\350\251\246/NoTag/save/model-positive/model.ckpt"

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/willy/Desktop/android_test/AndroidAudioRecorder_test/lib/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/willy/Desktop/android_test/AndroidAudioRecorder_test/lib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/willy/Desktop/android_test/AndroidAudioRecorder_test/lib/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/willy/Desktop/android_test/AndroidAudioRecorder_test/lib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/willy/Desktop/AndroidAudioRecorder-master/lib/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/willy/Desktop/AndroidAudioRecorder-master/lib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/willy/Desktop/AndroidAudioRecorder-master/lib/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/willy/Desktop/AndroidAudioRecorder-master/lib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

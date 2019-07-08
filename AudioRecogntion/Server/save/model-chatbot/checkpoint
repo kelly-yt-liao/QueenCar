@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/willy/\344\270\213\350\274\211/DeepQA-master/save/model-chatbot/model.ckpt"
+all_model_checkpoint_paths: "/home/willy/\344\270\213\350\274\211/DeepQA-master/save/model-chatbot/model.ckpt"
